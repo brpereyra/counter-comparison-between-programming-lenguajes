@@ -27,53 +27,21 @@ all the programs were run 3 times and the average time was calculated.
 
 #### First Run
 
-| Language   | Time (s)    |
-| ---------- | ----------- |
-| Go         | 3.587603267 |
-| Javascript | 7.421       |
-| Python     | 0.483777    |
-
-#### Second Run
-
-| Language   | Time (s)   |
-| ---------- | ---------- |
-| Go         | 3.23135254 |
-| Javascript | 7.899      |
-| Python     | 0.468314   |
-
-#### Third Run
-
-| Language   | Time (s)    |
-| ---------- | ----------- |
-| Go         | 4.284089136 |
-| Javascript | 8.331       |
-| Python     | 0.476542    |
+| Language   | Result 1 Time (s) | Result 2 Time (s) | Result 3 Time (s) |
+| ---------- | ----------------- | ----------------- | ----------------- |
+| Go         | 3.587603267       | 3.23135254        | 4.284089136       |
+| Javascript | 7.421             | 7.899             | 8.331             |
+| Python     | 0.483777          | 0.468314          | 0.476542          |
 
 ### Count numbers between 1 and 1000000
 
 #### First Run
 
-| Language   | Time (ms) |
-| ---------- | --------- |
-| Go         | 0.573     |
-| Javascript | 2.621     |
-| Python     | 93.486    |
-
-#### Second Run
-
-| Language   | Time (ms) |
-| ---------- | --------- |
-| Go         | 0.562     |
-| Javascript | 2.681     |
-| Python     | 85.66     |
-
-#### Third Run
-
-| Language   | Time (ms)         |
-| ---------- | ----------------- |
-| Go         | 0.527             |
-| Javascript | 2.86              |
-| Python     | 89.24300000000001 |
+| Language   | Result 1 Time (ms) | Result 2 time (ms) | Result 3 time (ms) |
+| ---------- | ------------------ | ------------------ | ------------------ |
+| Go         | 0.573              | 0.562              | 0.527              |
+| Javascript | 2.621              | 2.681              | 2.86               |
+| Python     | 93.486             | 85.66              | 89.243             |
 
 ## Disclaimer
 
