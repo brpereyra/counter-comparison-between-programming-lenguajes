@@ -1,0 +1,1 @@
+Time take in microseconds:  562

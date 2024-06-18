@@ -1,0 +1,1 @@
+Time take in milliseconds: 89.24300000000001
